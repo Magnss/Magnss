@@ -4,7 +4,7 @@
 
 - :credit_card: My full name is **Ha Wen Jie** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently the Second year student at **Nanyang Polytechnic**
-- :books: My major is **Artificial Intelligence**
+- :books: My major is **Cyber Security**
 - :earth_asia: I living in **Singapore**
 - :sweat_smile: I'm a Beginner in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and watching film
